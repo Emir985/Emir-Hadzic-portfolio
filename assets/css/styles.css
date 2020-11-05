@@ -470,6 +470,7 @@ footer .footer-links .foot-logo {
 }
 
 footer .footer-links ul {
+  font-family: 'IBM Plex Mono', monospace;
   vertical-align: middle;
   display: -webkit-box;
   display: -ms-flexbox;
