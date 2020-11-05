@@ -405,6 +405,9 @@ header #nav #cv:hover {
   -webkit-box-shadow: 30px 30px #0A0A0A;
           box-shadow: 30px 30px #0A0A0A;
   border: 1px solid #000000;
+  margin-left: 120px;
+  height: 300px;
+  line-height: 28px;
 }
 
 #portfolio .ungdomsringen p {
